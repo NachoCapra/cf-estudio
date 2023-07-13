@@ -114,6 +114,7 @@ nav .dropdown-menu > li > a:hover {
   margin-top: 100px;
 }
 .paquetes-container h3 {
+  margin-top: 100px;
   text-align: center;
   font-weight: 700;
   font-style: bold;
@@ -126,6 +127,7 @@ nav .dropdown-menu > li > a:hover {
   border-collapse: collapse;
   table-layout: fixed;
   font-size: 14px;
+  margin-top: 80px;
 }
 
 .pricing-table th,
