@@ -101,6 +101,11 @@ nav .dropdown-menu > li > a:hover {
   width: 350px;
 }
 
+@media screen and (max-width: 390px) {
+  .img-comunity {
+    display: none;
+  }
+}
 .container-servicios {
   margin-top: 25px;
 }

@@ -114,6 +114,11 @@ box-shadow: 1px 4px 5px -3px rgba(0,0,0,0.54);
     }
 }
 
+@media screen and (max-width:390px){
+    .img-comunity{
+        display: none;
+    }
+    }
 
 
 //Servicios
@@ -181,6 +186,7 @@ box-shadow: 1px 4px 5px -3px rgba(0,0,0,0.54);
     }
 }
 
+// Media query Paquetes
 @media screen and (max-width:768px){
 .paquetes{
     display: flex;
@@ -188,6 +194,9 @@ box-shadow: 1px 4px 5px -3px rgba(0,0,0,0.54);
     gap: 15px;
 }
 }
+
+
+
 
 
 // VIDEO
